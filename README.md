@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Marcus&#8208;Lirio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))]([https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))
+[![Linkedin Badge](https://img.shields.io/badge/-Marcus&#8208;Lirio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))]([https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))
 
 <div align="center">
-  <a href="https://github.com/MarcusLirio">
+  <a href="https://github.com/igornodari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNodari&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNodari&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornodari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
          <img style="align-items:center;" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
