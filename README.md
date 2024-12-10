@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Marcus&#8208;Lirio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))]([https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))
+[![Linkedin Badge](https://img.shields.io/badge/-igor&#8208;nodari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/)](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))]([https://www.linkedin.com/in/igor-leal-nodari-512b7914a/](https://www.linkedin.com/in/igor-leal-nodari-512b7914a/))
 
 <div align="center">
   <a href="https://github.com/igornodari">
